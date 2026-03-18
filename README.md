@@ -6,7 +6,7 @@
 
 ## 한 줄 소개
 
-KB IT's Your Life 7기를 다니고 있는 미래 개발자
+KB IT's Your Life 7기를 다니고 있는 미래 개발자 권권유현
 
 ## 문서 목록
 
